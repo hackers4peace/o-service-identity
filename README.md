@@ -2,8 +2,8 @@
 
 ## features
 
-* [ ] serve identity document
-* [ ] serve container with rel: "sec:publicKey"
+* [x] serve identity document
+* [x] serve container with rel: "sec:publicKey"
 * [ ] post new public keys to container
 * [ ] create new idenity
 * [ ] authenticate
@@ -14,11 +14,10 @@
 ### o-*
 
 * o-api-hapi
-* o-cli-service
+* o-storage-forkdb
 
 ### common
 
 * hapi
-* level
-* forkdb
- * sprom
+ * good
+  * good-console
